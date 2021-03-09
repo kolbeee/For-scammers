@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <SignAssembly>false</SignAssembly>
+    <ApplicationIcon>AppAndBrowser.theme-light.ico</ApplicationIcon>
+    <Product>Minecraft Troll Your friends / scammers!</Product>
+    <Authors>Unknown</Authors>
+    <Company>TrollProjects</Company>
+    <PackageReleaseNotes>1.2.0 has varous bug fixes / Patches</PackageReleaseNotes>
+    <Description>Troll your friends and scammers!</Description>
+    <NoWin32Manifest>true</NoWin32Manifest>
+    <Version>1.2.0</Version>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <OutputPath>C:\Users\Jaxson\Desktop\LOGS CLEAR\</OutputPath>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Service Include="{508349b6-6b84-4df5-91f0-309beebad82d}" />
+  </ItemGroup>
+
+</Project>

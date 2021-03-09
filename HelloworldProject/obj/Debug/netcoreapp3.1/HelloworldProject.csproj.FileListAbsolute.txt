@@ -1,0 +1,25 @@
+C:\Users\Jaxson\source\repos\HelloworldProject\HelloworldProject\bin\Debug\netcoreapp3.1\HelloworldProject.exe
+C:\Users\Jaxson\source\repos\HelloworldProject\HelloworldProject\bin\Debug\netcoreapp3.1\HelloworldProject.deps.json
+C:\Users\Jaxson\source\repos\HelloworldProject\HelloworldProject\bin\Debug\netcoreapp3.1\HelloworldProject.runtimeconfig.json
+C:\Users\Jaxson\source\repos\HelloworldProject\HelloworldProject\bin\Debug\netcoreapp3.1\HelloworldProject.runtimeconfig.dev.json
+C:\Users\Jaxson\source\repos\HelloworldProject\HelloworldProject\bin\Debug\netcoreapp3.1\HelloworldProject.dll
+C:\Users\Jaxson\source\repos\HelloworldProject\HelloworldProject\bin\Debug\netcoreapp3.1\HelloworldProject.pdb
+C:\Users\Jaxson\source\repos\HelloworldProject\HelloworldProject\obj\Debug\netcoreapp3.1\HelloworldProject.csprojAssemblyReference.cache
+C:\Users\Jaxson\source\repos\HelloworldProject\HelloworldProject\obj\Debug\netcoreapp3.1\HelloworldProject.AssemblyInfoInputs.cache
+C:\Users\Jaxson\source\repos\HelloworldProject\HelloworldProject\obj\Debug\netcoreapp3.1\HelloworldProject.AssemblyInfo.cs
+C:\Users\Jaxson\source\repos\HelloworldProject\HelloworldProject\obj\Debug\netcoreapp3.1\HelloworldProject.csproj.CoreCompileInputs.cache
+C:\Users\Jaxson\source\repos\HelloworldProject\HelloworldProject\obj\Debug\netcoreapp3.1\HelloworldProject.dll
+C:\Users\Jaxson\source\repos\HelloworldProject\HelloworldProject\obj\Debug\netcoreapp3.1\HelloworldProject.pdb
+C:\Users\Jaxson\source\repos\HelloworldProject\HelloworldProject\obj\Debug\netcoreapp3.1\HelloworldProject.genruntimeconfig.cache
+C:\Users\Jaxson\Desktop\LOGS CLEAR\netcoreapp3.1\HelloworldProject.exe
+C:\Users\Jaxson\Desktop\LOGS CLEAR\netcoreapp3.1\HelloworldProject.deps.json
+C:\Users\Jaxson\Desktop\LOGS CLEAR\netcoreapp3.1\HelloworldProject.runtimeconfig.json
+C:\Users\Jaxson\Desktop\LOGS CLEAR\netcoreapp3.1\HelloworldProject.runtimeconfig.dev.json
+C:\Users\Jaxson\Desktop\LOGS CLEAR\netcoreapp3.1\HelloworldProject.dll
+C:\Users\Jaxson\Desktop\LOGS CLEAR\netcoreapp3.1\HelloworldProject.pdb
+C:\Users\kfold\OneDrive\Desktop\HelloworldProject\obj\Debug\netcoreapp3.1\HelloworldProject.csprojAssemblyReference.cache
+C:\Users\kfold\OneDrive\Desktop\HelloworldProject\obj\Debug\netcoreapp3.1\HelloworldProject.AssemblyInfoInputs.cache
+C:\Users\kfold\OneDrive\Desktop\HelloworldProject\obj\Debug\netcoreapp3.1\HelloworldProject.AssemblyInfo.cs
+C:\Users\kfold\OneDrive\Desktop\HelloworldProject\obj\Debug\netcoreapp3.1\HelloworldProject.csproj.CoreCompileInputs.cache
+C:\Users\kfold\OneDrive\Desktop\HelloworldProject\obj\Debug\netcoreapp3.1\HelloworldProject.dll
+C:\Users\kfold\OneDrive\Desktop\HelloworldProject\obj\Debug\netcoreapp3.1\HelloworldProject.pdb

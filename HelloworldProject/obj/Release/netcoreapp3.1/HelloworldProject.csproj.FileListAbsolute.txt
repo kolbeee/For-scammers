@@ -1,0 +1,13 @@
+C:\Users\Jaxson\source\repos\HelloworldProject\HelloworldProject\bin\Release\netcoreapp3.1\HelloworldProject.exe
+C:\Users\Jaxson\source\repos\HelloworldProject\HelloworldProject\bin\Release\netcoreapp3.1\HelloworldProject.deps.json
+C:\Users\Jaxson\source\repos\HelloworldProject\HelloworldProject\bin\Release\netcoreapp3.1\HelloworldProject.runtimeconfig.json
+C:\Users\Jaxson\source\repos\HelloworldProject\HelloworldProject\bin\Release\netcoreapp3.1\HelloworldProject.runtimeconfig.dev.json
+C:\Users\Jaxson\source\repos\HelloworldProject\HelloworldProject\bin\Release\netcoreapp3.1\HelloworldProject.dll
+C:\Users\Jaxson\source\repos\HelloworldProject\HelloworldProject\bin\Release\netcoreapp3.1\HelloworldProject.pdb
+C:\Users\Jaxson\source\repos\HelloworldProject\HelloworldProject\obj\Release\netcoreapp3.1\HelloworldProject.csprojAssemblyReference.cache
+C:\Users\Jaxson\source\repos\HelloworldProject\HelloworldProject\obj\Release\netcoreapp3.1\HelloworldProject.AssemblyInfoInputs.cache
+C:\Users\Jaxson\source\repos\HelloworldProject\HelloworldProject\obj\Release\netcoreapp3.1\HelloworldProject.AssemblyInfo.cs
+C:\Users\Jaxson\source\repos\HelloworldProject\HelloworldProject\obj\Release\netcoreapp3.1\HelloworldProject.csproj.CoreCompileInputs.cache
+C:\Users\Jaxson\source\repos\HelloworldProject\HelloworldProject\obj\Release\netcoreapp3.1\HelloworldProject.dll
+C:\Users\Jaxson\source\repos\HelloworldProject\HelloworldProject\obj\Release\netcoreapp3.1\HelloworldProject.pdb
+C:\Users\Jaxson\source\repos\HelloworldProject\HelloworldProject\obj\Release\netcoreapp3.1\HelloworldProject.genruntimeconfig.cache
